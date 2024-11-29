@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: wisdom_zhe@qq.com
+- 📫 How to reach me: kkxm9269@163.com
 - 😄 Read more about my CSDN: [here](https://www.csdn.net/?spm=1008.2028.3001.4476)
 
 ![](https://github-readme-stats.vercel.app/api?username=solid-work&show_icons=true&theme=transparent)
